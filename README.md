@@ -8,8 +8,8 @@ Este projeto visa desenvolver e mostrar diversos métodos de ordenação de list
 dentre eles:
 
 - Bubble Sort
-- Insertion Sort
 - Selection Sort
+- Insertion Sort
 - Quick Sort
 - Shell Sort
 - Merge Sort
